@@ -1,4 +1,4 @@
-# my-github-projects
+# my-github-projects-EVENT MANAGEMENT SYSTEM
 The Event Management System is a web application designed to facilitate the organization and management of events. Whether it's a conference, workshop, party, or any other type of event, this system provides a convenient platform for event organizers to schedule and keep track of their events.
 
 Features:
